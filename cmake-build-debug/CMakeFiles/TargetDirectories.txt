@@ -1,0 +1,3 @@
+/Users/govnonyoox/CLionProjects/cpp-lab-1/cpp-lab-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/govnonyoox/CLionProjects/cpp-lab-1/cpp-lab-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/govnonyoox/CLionProjects/cpp-lab-1/cpp-lab-1/cmake-build-debug/CMakeFiles/cpp_lab_1.dir
